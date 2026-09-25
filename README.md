@@ -12,3 +12,4 @@ This project is created to learn Git and GitHub.
 - Merge
 - Pull Request
 - README
+- I am learning how Git and GitHub work together.
